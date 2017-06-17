@@ -52,10 +52,12 @@
             <div id="box-2">
                 <div id="text">
                     <h1>Interrogate Inc.</h1>
-                    <p>
-                        interrogateincorporate@gmail.com<br>
+                    <p style="line-height: 20px;">
+                        <a href="mailto:interrogateincorporate@gmail.com">interrogateincorporate@gmail.com</a><br>
                         Contact: +91 (***) ***-****<br>
-                        Social: <a href="https://github.com/Shivam010">Github@Shivam010</a>
+                        Site By: <a href=https://shivam010.in>https://shivam010.in</a><br>
+                        Social: <a href="https://github.com/Shivam010">Github@Shivam010</a><br>
+                        License: <a href=http://interrogate.herokuapp.com/LICENSE>MIT</a>
                     </p>
                 </div>
             </div>
