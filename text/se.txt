@@ -1,0 +1,126 @@
+Q.What is computer software?
+
+A. Computer software is a complete package, which includes software program, its documentation and user guide on how to use the software.
+
+Q.Can you differentiate computer software and computer program?
+
+A. A computer program is piece of programming code which performs a well defined task where as software includes programming code, its documentation and user guide.
+
+Q.What is software engineering?
+
+A. Software engineering is an engineering branch associated with software system development.
+
+Q.When you know programming, what is the need to learn software engineering concepts?
+
+A. A person who knows how to build a wall may not be good at building an entire house. Likewise, a person who can write programs may not have knowledge of other concepts of Software Engineering. The software engineering concepts guide programmers on how to assess requirements of end user, design the algorithms before actual coding starts, create programs by coding, testing the code and its documentation.
+
+Q.What is software process or Software Development Life Cycle (SDLC)?
+
+A.Software Development Life Cycle, or software process is the systematic development of software by following every stage in the development process namely, Requirement Gathering, System Analysis, Design, Coding, Testing, Maintenance and Documentation in that order.
+
+Q.What are SDLC models available?
+
+A. There are several SDLC models available such as Waterfall Model, Iterative Model, Spiral model, V-model and Big-bang Model etc.
+
+Q.What are various phases of SDLC?
+
+A. The generic phases of SDLC are: Requirement Gathering, System Analysis and Design, Coding, Testing and implementation. The phases depend upon the model we choose to develop software.
+
+Q.Which SDLC model is the best?
+
+A. SDLC Models are adopted as per requirements of development process. It may very software-to-software to ensuring which model is suitable.
+
+We can select the best SDLC model if following answers are satisfied -
+
+Is SDLC suitable for selected technology to implement the software ?
+Is SDLC appropriate for client’s requirements and priorities ?
+Is SDLC model suitable for size and complexity of the software ?
+Is the SDLC model suitable for type of projects and engineering we do ?
+Is the SDLC appropriate for the geographically co-located or dispersed developers ?
+Q.What is software project management?
+
+A. Software project management is process of managing all activities like time, cost and quality management involved in software development.
+
+Q.Who is software project manager?
+
+A. A software project manager is a person who undertakes the responsibility of carrying out the software project.
+
+Q.What does software project manager do?
+
+A. Software project manager is engaged with software management activities. He is responsible for project planning, monitoring the progress, communication among stakeholders, managing risks and resources, smooth execution of development and delivering the project within time, cost and quality contraints.
+
+Q.What is software scope?
+
+A. Software scope is a well-defined boundary, which encompasses all the activities that are done to develop and deliver the software product.
+
+The software scope clearly defines all functionalities and artifacts to be delivered as a part of the software. The scope identifies what the product will do and what it will not do, what the end product will contain and what it will not contain.
+
+Q.What is project estimation?
+
+A. It is a process to estimate various aspects of software product in order to calculate the cost of development in terms of efforts, time and resources. This estimation can be derived from past experience, by consulting experts or by using pre-defined formulas.
+
+Q.How can we derive the size of software product?
+
+A. Size of software product can be calculated using either of two methods -
+
+Counting the lines of delivered code
+Counting delivered function points
+Q.What are function points?
+
+A. Function points are the various features provided by the software product. It is considered as a unit of measurement for software size.
+
+Q.What are software project estimation techniques available?
+
+A. There are many estimation techniques available.The most widely used are -
+
+Decomposition technique (Counting Lines of Code and Function Points)
+Empirical technique (Putnam and COCOMO).
+Q.What is baseline?
+
+A. Baseline is a measurement that defines completeness of a phase. After all activities associated with a particular phase are accomplished, the phase is complete and acts as a baseline for next phase.
+
+Q.What is Software configuration management?
+
+A. Software Configuration management is a process of tracking and controlling the changes in software in terms of the requirements, design, functions and development of the product.
+
+Q.What is change control?
+
+A. Change control is function of configuration management, which ensures that all changes made to software system are consistent and made as per organizational rules and regulations.
+
+Q.How can you measure project execution?
+
+A. We can measure project execution by means of Activity Monitoring, Status Reports and Milestone Checklists.
+
+Q.Mention some project management tools.
+
+A. There are various project management tools used as per the requirements of software project and organization policies. They include Gantt Chart, PERT Chart, Resource Histogram, Critical Path Analysis, Status Reports, Milestone Checklists etc.
+
+Q.What are software requirements?
+
+A. Software requirements are functional description of proposed software system. Requirements are assumed to be the description of target system, its functionalities and features. Requirements convey the expectations of users from the system.
+
+Q.What is feasibility study?
+
+A. It is a measure to assess how practical and beneficial the software project development will be for an organization. The software analyzer conducts a thorough study to understand economic, technical and operational feasibility of the project.
+
+Economic - Resource transportation, cost for training, cost of additional utilities and tools and overall estimation of costs and benefits of the project.
+
+Technical - Is it possible to develop this system ? Assessing suitability of machine(s) and operating system(s) on which software will execute, existing developers’ knowledge and skills, training, utilities or tools for project.
+
+Operational - Can the organization adjust smoothly to the changes done as per the demand of project ? Is the problem worth solving ?
+
+Q.How can you gather requirements?
+
+A. Requirements can be gathered from users via interviews, surveys, task analysis, brainstorming, domain analysis, prototyping, studying existing usable version of software, and by observation.
+
+Q.What is SRS?
+
+A. SRS or Software Requirement Specification is a document produced at the time of requirement gathering process. It can be also seen as a process of refining requirements and documenting them.
+
+Q.What are functional requirements?
+
+A. Functional requirements are functional features and specifications expected by users from the proposed software product.
+
+Q.What are non-functional requirements?
+
+A. Non-functional requirements are implicit and are related to security, performance, look and feel of user interface, interoperability, cost etc.

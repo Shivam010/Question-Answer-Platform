@@ -1,0 +1,19 @@
+question -> Is a computer architecture class useful for a computer science major who wishes to work as a software engineer?
+answer->If you ever have to write performance-critical code, having some hardware knowledge is essential - how multi-level caching works, how branch predictors work, how pipelining works and how branches can potentially give you a big performance hit, how filling up a TLB cache can cause all memory operations to slow down, how doing a SIMD operation across cacheline boundaries can be very slow, how cache coherence protocols can slow down your multi-threaded code if you use certain memory access patterns, etc.
+
+And obviously, if you ever want to write kernel code, having some hardware knowledge is also essential.
+
+If you know you will only ever stay in high level software that's not performance-critical (business applications, most web stuff, etc), it's not very important.
+
+
+question-> Is there a trick or easier way to learn the instruction set of microproccesor 8085?
+
+Yes ! instead of learning them in alphabetical order Learn and understand them in order of their working….
+
+Using 74 different opcodes you can form 246 instructions in 8085 but don't worry about the numbers because much of the instructions working are same only the source and destination of data are diffrent so just differentiate all the instructions into given order and then you will be available to memorize them more efficiently.
+
+Data transfer
+Arithmetic and logical operation
+Branching instructions
+Machine control instructions
+Special instruction
