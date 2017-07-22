@@ -1,5 +1,5 @@
-# Discussion Form Like Quora | Interrogate Inc.
-This Discussion Form is a dynamic website named ["Interrogate Inc. | where questions are themselves the answers"](interrogate.96.lt), which simulates the basic functioning of the famous website [Quora.](https://www.quora.com/)
+# Question-Answer-Platform Like Quora | Interrogate Inc.
+This Question-Answer-Platform is a dynamic website named ["Interrogate Inc. | where questions are themselves the answers"](interrogate.96.lt), which simulates the basic functioning of the famous website [Quora.](https://www.quora.com/)
 
 Made for learning purpose as well as for my academic project.
 
